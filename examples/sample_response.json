@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "website": "https://example.com/",
+  "brand": {
+    "name": "Example Studio",
+    "category": "Digital services",
+    "summary": "Illustrative example of a small digital services business."
+  },
+  "analysis": {
+    "competitor_analysis": {
+      "brand_overview": "Example Studio provides digital services to growing businesses.",
+      "competitors": [
+        {"name": "Candidate competitor A", "overview": "Illustrative candidate only.", "strengths": ["Recognised service category"], "weaknesses_or_gaps": ["Not verified from the submitted page"], "confidence": "low", "evidence_note": "Example only; verify independently."},
+        {"name": "Candidate competitor B", "overview": "Illustrative candidate only.", "strengths": ["Recognised service category"], "weaknesses_or_gaps": ["Not verified from the submitted page"], "confidence": "low", "evidence_note": "Example only; verify independently."},
+        {"name": "Candidate competitor C", "overview": "Illustrative candidate only.", "strengths": ["Recognised service category"], "weaknesses_or_gaps": ["Not verified from the submitted page"], "confidence": "low", "evidence_note": "Example only; verify independently."}
+      ],
+      "brand_strengths": ["Clear service description"],
+      "competitive_advantages": ["A focused service offer"],
+      "opportunities": ["Publish case studies and detailed service pages"]
+    },
+    "target_search_queries": [
+      {"query": "digital services for growing businesses", "platforms": ["Google"], "intent": "Service discovery", "business_relevance": "Finds providers in the relevant category", "target_audience": "Small and growing businesses"},
+      {"query": "digital transformation support for small business", "platforms": ["Facebook"], "intent": "Business discovery", "business_relevance": "Connects the service to a customer need", "target_audience": "Small business owners"},
+      {"query": "modern digital service ideas", "platforms": ["Instagram"], "intent": "Inspiration", "business_relevance": "Supports visual discovery", "target_audience": "Founders and marketing teams"},
+      {"query": "digital services partner for startups", "platforms": ["LinkedIn"], "intent": "B2B research", "business_relevance": "Targets startup decision-makers", "target_audience": "Startup founders"},
+      {"query": "affordable digital services for SMEs", "platforms": ["X"], "intent": "Service research", "business_relevance": "Highlights a likely buying consideration", "target_audience": "SME decision-makers"}
+    ],
+    "seo_improvements": {
+      "primary_keyword": "digital services for businesses",
+      "secondary_keywords": ["business digital solutions"],
+      "long_tail_keywords": ["digital services for growing small businesses"],
+      "recommended_title": "Digital Services for Growing Businesses | Example Studio",
+      "meta_description": "Example Studio helps growing businesses with practical digital services.",
+      "supporting_content": ["Service-specific landing pages", "Customer case studies", "Frequently asked questions"]
+    },
+    "top_services": [
+      {"name": "Digital consulting", "description": "An illustrative service description.", "target_industry": "Multiple industries", "target_customer": "Small businesses", "main_benefit": "Supports business growth", "evidence_type": "inferred"},
+      {"name": "Website development", "description": "An illustrative service description.", "target_industry": "Multiple industries", "target_customer": "Small businesses", "main_benefit": "Supports business growth", "evidence_type": "inferred"},
+      {"name": "Content strategy", "description": "An illustrative service description.", "target_industry": "Multiple industries", "target_customer": "Small businesses", "main_benefit": "Supports business growth", "evidence_type": "inferred"},
+      {"name": "Search optimisation", "description": "An illustrative service description.", "target_industry": "Multiple industries", "target_customer": "Small businesses", "main_benefit": "Supports business growth", "evidence_type": "inferred"},
+      {"name": "Analytics setup", "description": "An illustrative service description.", "target_industry": "Multiple industries", "target_customer": "Small businesses", "main_benefit": "Supports business growth", "evidence_type": "inferred"}
+    ],
+    "target_audience": {
+      "primary_audience": ["Small business owners"],
+      "secondary_audience": ["Startup teams"],
+      "industries": ["Professional services", "Retail"],
+      "business_types": ["SMEs", "Startups"],
+      "customer_profiles": ["Owners evaluating digital projects"],
+      "geographical_focus": ["Not established from the example page"],
+      "customer_needs": ["Practical digital support"],
+      "customer_interests": ["Business growth"],
+      "recommended_segments": ["Early-stage companies"]
+    }
+  },
+  "source": {
+    "page_title": "Example Studio",
+    "meta_description": "Digital services for growing businesses.",
+    "headings": ["What we do"],
+    "content_characters": 420,
+    "method": "HTML extraction + LLM analysis"
+  }
+}
