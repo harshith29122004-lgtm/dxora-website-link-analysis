@@ -1,0 +1,3 @@
+$ uvicorn app.main:app --host 127.0.0.1 --port 4000
+GET /health -> HTTP 200 {"status": "ok"}
+GET /openapi.json -> HTTP 200; paths: /health, /link-analysis
